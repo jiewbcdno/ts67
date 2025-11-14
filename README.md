@@ -3,6 +3,7 @@
 - Load faster
 - ~~Add favicon~~
 - Add more pages
-- add editor
-- ~~hack bookclub~~
-- ~~kill 89~~
+- Add editor
+- ~~Hack bookclub~~
+- ~~Kill 89~~
+- ~~sneak into 89's house~~
