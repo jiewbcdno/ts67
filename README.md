@@ -6,4 +6,4 @@
 - Add editor
 - ~~Hack bookclub~~
 - ~~Kill 89~~
-- ~~sneak into 89's house~~
+- ~~Sneak into 89's house~~
